@@ -68,11 +68,11 @@
 | 云端审核                  | 可开通                        | 可开通                         | 可开通                        | 可开通                         |
 | 插件服务                  | 可开通                        | 可开通                         | 可开通                        | 可开通                         |
 
-![01.jpg](D:\OpenCode\IM\img\01.jpg)
+![01.jpg](upfiles/imgs/01.jpg)
 
 
 
-![02.jpg](D:\OpenCode\IM\img\02.jpg)
+![02.jpg](upfiles/imgs/02.jpg)
 
 官方详细文![档]()
 
