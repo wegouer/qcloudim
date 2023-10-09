@@ -68,18 +68,16 @@
 | 云端审核                  | 可开通                        | 可开通                         | 可开通                        | 可开通                         |
 | 插件服务                  | 可开通                        | 可开通                         | 可开通                        | 可开通                         |
 
-![01.jpg](upfiles/imgs/01.jpg)
+![01.jpg](./docs/img/01.jpg)
 
 
 
-![02.jpg](upfiles/imgs/02.jpg)
+![02.jpg](./docs/img/02.jpg)
 
-官方详细文![档]()
-
-[即时通信 IM 计费概述-购买指南-文档中心-腾讯云](https://cloud.tencent.com/document/product/269/11673)
+官方详细文! [即时通信 IM 计费概述-购买指南-文档中心-腾讯云](https://cloud.tencent.com/document/product/269/11673)
 
 
-
+### 联系作者支持：
 
 
 飞机群：[https://t.me/+cyY_nAvyYcJkMGRl](https://t.me/+cyY_nAvyYcJkMGRl)；
