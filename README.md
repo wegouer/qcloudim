@@ -4,23 +4,23 @@
 
    本系统完全开源，开发者可以进行自己的二次开发，在有客服聊天的项目场景中使用。 支持WEB，H5，APP安卓，APP苹果，小程序，桌面客户端等你想使用的地方。
 
-
-
 ### 使用方法
 
   通过在后台创建一个客服获取到链接直接复制到需要加载客服的地方。
 
-
-
 ### 开源版（OpenSource）和开源Pro（OpenSourcePro）版本区别
 
 - OpenSource开源版：
+  
   - 麻雀虽小五脏俱全！
   - 支持二次开发，不提供任何技术支持！
 
 - OpenSourcePro开源版：
-  - 提供技术开发指导，联系作者购买服务包
+  
+  - 提供技术开发指导，联系作者：![loading-ag-986](./docs/img/icon_wx_logo.png) tcloud666
   - 如果需要开发版本可以加星免费申请开发者账号
+  
+  
 
 > <span style="color: red">所有可用主要功能依赖于腾讯云即时通信 IM版本功能区请查看下表</span>
 
@@ -70,14 +70,10 @@
 
 ![01.jpg](./docs/img/01.jpg)
 
-
-
 ![02.jpg](./docs/img/02.jpg)
 
 官方详细文! [即时通信 IM 计费概述-购买指南-文档中心-腾讯云](https://cloud.tencent.com/document/product/269/11673)
 
-
 ### 联系作者支持：
-
 
 飞机群：[https://t.me/+cyY_nAvyYcJkMGRl](https://t.me/+cyY_nAvyYcJkMGRl)；
